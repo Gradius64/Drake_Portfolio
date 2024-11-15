@@ -1,0 +1,11 @@
+{
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview",
+    "dependencies": {
+        "@fontsource/outfit": "^5.1.0",
+        "@fontsource/roboto": "^5.1.0"
+    }
+}
